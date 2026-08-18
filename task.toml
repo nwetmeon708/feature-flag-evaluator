@@ -1,1 +1,15 @@
+[metadata]
+name = "feature-flag-evaluator"
 
+[agent]
+network_mode = "none"
+
+[verifier]
+network_mode = "none"
+
+[environment]
+network_mode = "none"
+cpus = 2
+memory_mb = 4096
+storage_mb = 4096
+gpus = 0
